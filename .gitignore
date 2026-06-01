@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.idea/
+# dataset (download from Kaggle, do not commit)
+train/
+val/
+test/
+# trained models / outputs
+*.h5
+*.keras
